@@ -1,12 +1,12 @@
-## Hi 👋 I'm AlexSeyker
+## Hi, I'm AlexSeyker 👋
 
-Software developer from Catalonia, Spain.  
-Cybersecurity & engineering background.  
+Software developer based in Catalonia, Spain.  
+Background in cybersecurity and engineering.  
 Creator of Torvix Pro.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,php,python,cpp,cs,java,go,rust,nodejs,dotnet,linux,docker,bash,sql&theme=dark" />
@@ -22,8 +22,8 @@ Creator of Torvix Pro.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexSeykerkk&show_icons=true&theme=dark" />
-</p>
+### 🔎 Focus
+- Software development
+- Secure systems
+- Scalable architectures
+- Clean and maintainable code
