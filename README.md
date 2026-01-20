@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋 I'm AlexSeyker
 
-<!--
-**AlexSeykerkk/AlexSeykerkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer from Catalonia, Spain.  
+Cybersecurity & engineering background.  
+Creator of Torvix Pro.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,php,python,cpp,cs,java,go,rust,nodejs,dotnet,linux,docker,bash,sql&theme=dark" />
+</p>
+
+---
+
+### 🌍 Languages
+- Spanish
+- Catalan
+- English
+- Portuguese (basic)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexSeykerkk&show_icons=true&theme=dark" />
+</p>
